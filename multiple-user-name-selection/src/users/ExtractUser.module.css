@@ -1,0 +1,12 @@
+.selected {
+    background-color: rgba(255,0,0,0.50);
+    border: 1px solid black
+}
+
+.selected.not {
+    background-color: white;
+}
+
+ul{
+    list-style-type: none;
+}
