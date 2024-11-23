@@ -1,4 +1,4 @@
-This react native app depicts the feature of api data retrieval by asynchronous call and multiple selection after mapping data.
+This react.js app depicts the feature of api data retrieval by asynchronous call and multiple selection after mapping data.
 
 
 **Steps:**
